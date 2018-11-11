@@ -1,0 +1,15 @@
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\bin\Debug\ImageToASCII CSharp.exe.config
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\bin\Debug\ImageToASCII CSharp.exe
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\bin\Debug\ImageToASCII CSharp.pdb
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csprojAssemblyReference.cache
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\MainWindow.g.cs
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\App.g.cs
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp_MarkupCompile.cache
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp_MarkupCompile.lref
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\MainWindow.baml
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.g.resources
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII_CSharp.Properties.Resources.resources
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csproj.GenerateResource.cache
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csproj.CoreCompileInputs.cache
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.exe
+D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.pdb

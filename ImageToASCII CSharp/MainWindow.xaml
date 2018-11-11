@@ -1,0 +1,17 @@
+﻿<Window x:Class="ImageToASCII_CSharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageToASCII_CSharp"
+        mc:Ignorable="d"
+        Title="ImageToASCII" Height="200" Width="400" ResizeMode="NoResize" SizeToContent="WidthAndHeight">
+    <Grid>
+        <Button Content="Open Picture" BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Center" Margin="97,26,97,115" VerticalAlignment="Center" Width="200" Height="30" Click="Button_Click"/>
+        <TextBox x:Name="RatioBox" HorizontalAlignment="Left" Height="25" Margin="197,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="45" Text="1" TextAlignment="Center" FontSize="16"/>
+        <Label Content="Ratio" HorizontalAlignment="Left" Margin="139,72,0,0" VerticalAlignment="Top" Width="52" Height="40" FontSize="16"/>
+        <Label x:Name="FinishText" Content="Conversion Successful" HorizontalAlignment="Center" Margin="134,114,134,33" VerticalAlignment="Center" Width="126" Height="24" Initialized="FinishText_Initialized"/>
+        <Button x:Name="ShowOutput" BorderThickness="1" BorderBrush="Black" Content="asciiArt.txt" HorizontalAlignment="Center" Margin="160,143,160,8" VerticalAlignment="Center" Width="74" Click="ShowOutput_Click" Initialized="ShowOutput_Initialized" Height="20" MaxWidth="74" MaxHeight="20"/>
+
+    </Grid>
+</Window>
