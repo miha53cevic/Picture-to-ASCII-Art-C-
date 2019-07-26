@@ -5,13 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ImageToASCII_CSharp"
         mc:Ignorable="d"
-        Title="ImageToASCII" Height="200" Width="400" ResizeMode="NoResize" SizeToContent="WidthAndHeight">
+        Title="ImageToASCII" Height="200" Width="400" ResizeMode="NoResize" SizeToContent="WidthAndHeight" Closing="Window_Closing">
     <Grid>
         <Button Content="Open Picture" BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Center" Margin="97,26,97,115" VerticalAlignment="Center" Width="200" Height="30" Click="Button_Click"/>
-        <TextBox x:Name="RatioBox" HorizontalAlignment="Left" Height="25" Margin="197,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="45" Text="1" TextAlignment="Center" FontSize="16"/>
-        <Label Content="Ratio" HorizontalAlignment="Left" Margin="139,72,0,0" VerticalAlignment="Top" Width="52" Height="40" FontSize="16"/>
+        <TextBox x:Name="RatioBox" HorizontalAlignment="Left" Height="26" Margin="124,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="45" Text="4" TextAlignment="Center" FontSize="16"/>
+        <Label Content="Ratio" HorizontalAlignment="Left" Margin="67,72,0,0" VerticalAlignment="Top" Width="52" Height="40" FontSize="16"/>
         <Label x:Name="FinishText" Content="Conversion Successful" HorizontalAlignment="Center" Margin="134,114,134,33" VerticalAlignment="Center" Width="126" Height="24" Initialized="FinishText_Initialized"/>
         <Button x:Name="ShowOutput" BorderThickness="1" BorderBrush="Black" Content="asciiArt.txt" HorizontalAlignment="Center" Margin="160,143,160,8" VerticalAlignment="Center" Width="74" Click="ShowOutput_Click" Initialized="ShowOutput_Initialized" Height="20" MaxWidth="74" MaxHeight="20"/>
+        <Label x:Name="Font" Margin="194,72,0,0" VerticalAlignment="Top" Height="40" FontSize="16" RenderTransformOrigin="1.423,0.55" Content="Font Size" HorizontalAlignment="Left" Width="75"/>
+        <TextBox x:Name="FontSize" HorizontalAlignment="Left" Height="26" Margin="274,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="45" Text="8" TextAlignment="Center" FontSize="16"/>
 
     </Grid>
 </Window>

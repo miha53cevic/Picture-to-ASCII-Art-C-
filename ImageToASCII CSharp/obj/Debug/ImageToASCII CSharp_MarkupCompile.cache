@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\
 ImageToASCII_CSharp
 none
 false
 DEBUG;TRACE
-D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\App.xaml
-11151548125
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\App.xaml
+2776622788
 
-5-2017746502
+6-1550534314
 14434534373
-MainWindow.xaml;
+ASCIIWindow.xaml;MainWindow.xaml;
 
 False
 

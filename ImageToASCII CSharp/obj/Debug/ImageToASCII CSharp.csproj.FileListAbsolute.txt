@@ -13,3 +13,20 @@ D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII
 D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csproj.CoreCompileInputs.cache
 D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.exe
 D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.pdb
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\bin\Debug\ImageToASCII CSharp.exe.config
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\bin\Debug\ImageToASCII CSharp.exe
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\bin\Debug\ImageToASCII CSharp.pdb
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csprojAssemblyReference.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\MainWindow.g.cs
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\App.g.cs
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp_MarkupCompile.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp_MarkupCompile.lref
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\MainWindow.baml
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.g.resources
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII_CSharp.Properties.Resources.resources
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csproj.GenerateResource.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.csproj.CoreCompileInputs.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.exe
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ImageToASCII CSharp.pdb
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ASCIIWindow.g.cs
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Debug\ASCIIWindow.baml

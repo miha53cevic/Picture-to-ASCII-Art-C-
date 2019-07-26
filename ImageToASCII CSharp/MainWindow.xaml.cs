@@ -32,6 +32,9 @@ namespace ImageToASCII_CSharp
 
         private Bitmap image;
         private int nWidth;
+        private int nFontSize;
+
+        private ASCIIWindow ASCIIArea;
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -44,11 +47,16 @@ namespace ImageToASCII_CSharp
             {
                 image = new Bitmap(openFileDialog.FileName);
 
-                nWidth = int.Parse(RatioBox.Text);
+                nWidth      = int.Parse(RatioBox.Text);
+                nFontSize   = int.Parse(FontSize.Text);
 
-                //Width je uvijek veci od 0
+                // Width je uvijek veci od 0
                 if (nWidth <= 0)
                     nWidth = 1;
+
+                // Font je uvijek veci od 0
+                if (nFontSize <= 0)
+                    nFontSize = 1;
 
                 ImageToASCII();
 
@@ -64,7 +72,9 @@ namespace ImageToASCII_CSharp
         }
 
         private void ImageToASCII()
-        { 
+        {
+            ASCIIArea = new ASCIIWindow();
+
             StreamWriter writer = File.CreateText("asciiArt.txt");
 
             double redPart = 0.299;
@@ -80,6 +90,8 @@ namespace ImageToASCII_CSharp
 
             //Vector zapravo
             List<double> ValueHolder = new List<double>();
+
+            string art = String.Empty;
 
             //Looping through pixels
             for (int i = 0; i < (int)image.Height / nWidth; i++)
@@ -107,16 +119,21 @@ namespace ImageToASCII_CSharp
 
                     //Write to .txt
                     writer.Write(GetSymbol(greyShade));
+                    art += GetSymbol(greyShade)[0];
 
                     //Clear list
                     ValueHolder.Clear();
                 }
                 //New line
                 writer.WriteLine();
+                art += '\n';
             }
 
             //Close .txt document
             writer.Close();
+
+            ASCIIArea.Show();
+            ASCIIArea.DrawASCIIArt(art, image, nWidth, nFontSize);
         }
 
         private string GetSymbol(double l_greyShade)
@@ -161,6 +178,15 @@ namespace ImageToASCII_CSharp
         {
             //Open asciiArt.txt
             Process.Start("notepad.exe", "asciiArt.txt");
+        }
+
+        // If the main window is closed close the ASCIIArea window as well
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (ASCIIArea != null)
+            {
+                ASCIIArea.Close();
+            }
         }
     }
 }

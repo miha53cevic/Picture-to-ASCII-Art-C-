@@ -12,3 +12,19 @@ D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Release\ImageToASC
 D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.csproj.CoreCompileInputs.cache
 D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.exe
 D:\VS Studio Projects\CSharp Projects\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.pdb
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\bin\Release\ImageToASCII CSharp.exe.config
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\bin\Release\ImageToASCII CSharp.exe
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\bin\Release\ImageToASCII CSharp.pdb
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ASCIIWindow.g.cs
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\MainWindow.g.cs
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\App.g.cs
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp_MarkupCompile.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp_MarkupCompile.lref
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ASCIIWindow.baml
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\MainWindow.baml
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.g.resources
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII_CSharp.Properties.Resources.resources
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.csproj.GenerateResource.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.csproj.CoreCompileInputs.cache
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.exe
+D:\GitRepos\Picture-to-ASCII-Art-CSharp\ImageToASCII CSharp\obj\Release\ImageToASCII CSharp.pdb
